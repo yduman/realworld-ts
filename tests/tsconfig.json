@@ -1,0 +1,15 @@
+{
+  "extends": "../tsconfig.json",
+  "references": [
+    {
+      "name": "realworld-ts",
+      "path": ".."
+    }
+  ],
+  "compilerOptions": {
+    "types": ["jest"],
+    "rootDir": "..",
+    "noEmit": true
+  },
+  "include": ["."]
+}
