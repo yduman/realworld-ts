@@ -1,0 +1,8 @@
+{
+  "name": "realworld-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yduman/realworld-ts.git",
+  "author": "Yadullah Duman <yadullah.duman@maibornwolff.de>",
+  "license": "MIT"
+}
